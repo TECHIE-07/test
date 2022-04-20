@@ -1,3 +1,11 @@
 fn main(){
-    println!("Hello World");
-}
+   let first = 12;
+   let second = 20;
+   if first>second {
+       println!("hello world");
+      } else {
+           println!("bye world");
+       }
+   }
+
+
